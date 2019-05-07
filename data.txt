@@ -1,0 +1,7 @@
+with coolStart 1134 second 100 200 14.6
+without good 1134 second 0.1 0.2
+with cool 1134 minute 202 100 10
+not valid
+without Sta 1134 minute 0.4 0.11
+with Start 1134 second 140 150 12.1
+without ander 1134 second 0.2 0.3
